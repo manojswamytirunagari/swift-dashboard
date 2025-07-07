@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/swift-dashboard/static/css/main.4ab45a2d.css",
+    "main.js": "/swift-dashboard/static/js/main.96b511e4.js",
+    "index.html": "/swift-dashboard/index.html",
+    "main.4ab45a2d.css.map": "/swift-dashboard/static/css/main.4ab45a2d.css.map",
+    "main.96b511e4.js.map": "/swift-dashboard/static/js/main.96b511e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab45a2d.css",
+    "static/js/main.96b511e4.js"
+  ]
+}
